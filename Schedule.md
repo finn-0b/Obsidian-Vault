@@ -12,9 +12,88 @@ Stuff:
 Researches/Reports:
 - James O'Shaughnessy & Marks
 - [Few ER](https://cfmequityresearch.com/Analysis%20Archive.html)
+20 25 30 : commercial 
 
+below residential
 
+60 feet long 
+
+cut 20 feet parts
+
+North Iron & North rebar 
+
+ldc turkey is main importer. Bring to hamilton or 
+
+canada 15 mm, 
+ 
 To-do:
+
+Here's the full extracted text from the flyer, organized by section:
+
+Front Page (Cover/Fold)
+
+AUTO | HOME | BUSINESS INSURANCE
+
+75% of Ontario drivers got increase in insurance premium
+Were you?
+
+Do I pay right for my insurance?!
+
+20%
+Some vehicles cost insurers 20% more in claims than average — which raises your premium
+Planning to buy a new car? Compare it with what you have first!
+
+1.6x Difference in insurance costs($) between postal codes in Ontario
+Check the difference before you move.
+
+12+ Everyday factors that could be quietly lowering — or raising — your premium
+See the full list when you scan QR code
+
+Open for 3 FREE tools +quote
+
+Left Panel (Inside, dark blue)
+
+3 FREE TOOLS
++Free Quote
+
+[QR code]
+Or type babinskyi.ca/free-tools
+
+[down arrow icon]
+
+Get Your Postal Code Check
+See in seconds if your address is quietly inflating your premium
+
+Estimate Your Vehicle's Costs
+Look up how much your car costs to insure through the eyes of an insurance company
+
+See What's Raising or Lowering Your Rate
+Marital status, driver age, vehicle cost, and more — see which factors apply to you, .
+
+Right Panel (Inside, cream)
+
+Did you know?
+
+Cost of your insurance changes every year
+Every company will charge you differently!
+
+Business insurance can be a better option
+If you are a contractor, commercial auto insurance offers a completely different price!
+
+On July 1st, insurance reform came in effect
+Insurance reform came in effect on July 1st, which changed your mandatory coverages!
+
+Want to Talk with Advisor Now?
+Card for your wallet!
+
+*I can help only 3-4 people per day. If your situation is urgent - give me a call or text asap!
+I can put you ahead based on circumstances.
+
+
+THANK YOU!
+
+
+
 
 - [x] What happened with calgary, why is it an emerging city right now 
 	- [x] What type of property will be of value and what do you think about raw land 
@@ -140,6 +219,7 @@ Jan 19
 	- [x] Aswath Damodaran article 
 - [x] ADBE finish adjustments 
 - [x] Start Excel sheet for bridal show 
+<<<<<<< Updated upstream
 - [ ] 50p EWB
 
 Jan 22 
@@ -154,6 +234,8 @@ Jan 24
 	- [ ] Okay, it's so big that i got lost +plus my addiction stood in the way. Bottom Up approach -> What it sells? Cars, Equipment, Other(Write it down) -> Where it sells? (assign weights) -> Who is the competitor there? (in niche producer, specific sub-segment would be enough, but BYD sells cars of all calibers; compare product functionality) -> who is end consumer? (does company do the right thing to connect ) how sticky & price sensitive they are? -> what is their current market share and how much they and industry in those regions can grow? -> are they expanding into other segments (repeat all previous questions +will they have an edge thanks to their core business)
 	- [ ] Among them you can discover competitive advantages & economies of scale 
 - [ ] Access website through phone 
+
+
 ***
 #### Why?
 
@@ -188,44 +270,6 @@ Jan 24
 		- [ ] Easton, McAnally, Sommers: _Financial Statement Analysis & Valuation_
 		- [ ] Valuation: University edition 
 	
-
-
-- #### 2026 Winter-Early Summer
-
-
-
-	- [ ] ?Implement scheme with foreign employment 
-		- -0-100$ +Favor from Ali
-
-
-- #### 2026 Summer-End 
-	- Apply for Estimator -1600$
-
-
-- #### 2027
-
-	- ?Pass English & French test
-	- ?Apply for EE -1525$
-
-
-***
-### Note to myself: 
-- Reason for my poor performance is:
-	1. Lack due diligence & irrational portfolio structure -> lack of portfolio construction knowledge -> inappropriate risks -> lack of margin of safety. 
-- Why did it occurred? 
-	1. FOMO 
-	2. Pride & self-confidence(foolishness) 
-	3. Reliance on third source, "expert's", info -> click-run decisions which didn't involve throughout thinking 
-	4. Rush
-- How can i improve? 
-	1. Fact checking 
-	2. Prudency even in small decisions/positions 
-	3. Get self-awareness on **all** decisions; Answer question as of: 
-		1. Why this and not index(how this benefits my portfolio)? 
-		2. Based on what am i doing that decision?  
-	4. ==**Be always aware of security's risk/return proposition**==
-	
-	5. **Continue with education** - trust the process 
 
 ***
 

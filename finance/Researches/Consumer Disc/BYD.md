@@ -6,6 +6,9 @@ To-do
 - [ ] How risky their CF are 
 - [ ] Maturity 
 
+I updated my address, however plastic card is still in delivery. I placed confirmation I got from ServiceOntario under old driving license.
+
+In my condo there's a shut-down of electricity, therefore text is a bit blurry. Hope it's still readable
 
 ### Special values:
 #### 1. Company Description
